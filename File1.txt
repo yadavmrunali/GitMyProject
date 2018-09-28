@@ -2,8 +2,8 @@ Welcome to persistent....GIT......
 
 
 
-Change1 is commited
+Change--> 1 is commited
 
-Change2 is commited
+Change--> 2 is commited
 
-change3 is commites
+Change-->3 is commites
